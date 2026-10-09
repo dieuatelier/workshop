@@ -1,5 +1,5 @@
 # Diêu Atelier — GitHub Pages
-Visit https://levinhieyagi.github.io/dieuatelier/ after deployment finishes.
+Visit https://dieuatelier.github.io/workshop/ after deployment finishes.
 
 ## Edit
 - Open index.html in VS Code to change the workshop text and destination links.
